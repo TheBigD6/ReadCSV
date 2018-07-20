@@ -1,0 +1,12 @@
+C:\20483B-ENU-Allfiles\Homework_For_Online\ReadFileCSV\ReadFileCSV\bin\Debug\ConsoleApplication2.exe.config
+C:\20483B-ENU-Allfiles\Homework_For_Online\ReadFileCSV\ReadFileCSV\obj\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework_For_Online\ReadFileCSV\ReadFileCSV\obj\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework_For_Online\ReadFileCSV\ReadFileCSV\bin\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework_For_Online\ReadFileCSV\ReadFileCSV\bin\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework_For_Online\ReadFileCSV\ReadFileCSV\obj\Debug\ReadFileCSV.csprojResolveAssemblyReference.cache
+C:\20483B-ENU-Allfiles\Homework_For_Online\New folder (2)\ReadFileCSV\ReadFileCSV\bin\Debug\ConsoleApplication2.exe.config
+C:\20483B-ENU-Allfiles\Homework_For_Online\New folder (2)\ReadFileCSV\ReadFileCSV\obj\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework_For_Online\New folder (2)\ReadFileCSV\ReadFileCSV\obj\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework_For_Online\New folder (2)\ReadFileCSV\ReadFileCSV\bin\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework_For_Online\New folder (2)\ReadFileCSV\ReadFileCSV\bin\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework_For_Online\New folder (2)\ReadFileCSV\ReadFileCSV\obj\Debug\ReadFileCSV.csprojResolveAssemblyReference.cache

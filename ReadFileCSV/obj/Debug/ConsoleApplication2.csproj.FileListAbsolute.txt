@@ -1,0 +1,12 @@
+C:\20483B-ENU-Allfiles\Homework for online class\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\20483B-ENU-Allfiles\Homework for online class\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework for online class\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework for online class\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\20483B-ENU-Allfiles\Homework for online class\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework for online class\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework_For_Online\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\20483B-ENU-Allfiles\Homework_For_Online\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework_For_Online\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework_For_Online\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\20483B-ENU-Allfiles\Homework_For_Online\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\20483B-ENU-Allfiles\Homework_For_Online\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
